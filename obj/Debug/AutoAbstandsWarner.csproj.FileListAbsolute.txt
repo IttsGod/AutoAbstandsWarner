@@ -1,0 +1,10 @@
+C:\Users\arik.herbert\Documents\Berufsschule\BFK-S\LernSituationAutoSensoren\AutoAbstandsWarner\bin\Debug\AutoAbstandsWarner.exe.config
+C:\Users\arik.herbert\Documents\Berufsschule\BFK-S\LernSituationAutoSensoren\AutoAbstandsWarner\bin\Debug\AutoAbstandsWarner.exe
+C:\Users\arik.herbert\Documents\Berufsschule\BFK-S\LernSituationAutoSensoren\AutoAbstandsWarner\bin\Debug\AutoAbstandsWarner.pdb
+C:\Users\arik.herbert\Documents\Berufsschule\BFK-S\LernSituationAutoSensoren\AutoAbstandsWarner\obj\Debug\AutoAbstandsWarner.csproj.AssemblyReference.cache
+C:\Users\arik.herbert\Documents\Berufsschule\BFK-S\LernSituationAutoSensoren\AutoAbstandsWarner\obj\Debug\AutoAbstandsWarner.Form1.resources
+C:\Users\arik.herbert\Documents\Berufsschule\BFK-S\LernSituationAutoSensoren\AutoAbstandsWarner\obj\Debug\AutoAbstandsWarner.Properties.Resources.resources
+C:\Users\arik.herbert\Documents\Berufsschule\BFK-S\LernSituationAutoSensoren\AutoAbstandsWarner\obj\Debug\AutoAbstandsWarner.csproj.GenerateResource.cache
+C:\Users\arik.herbert\Documents\Berufsschule\BFK-S\LernSituationAutoSensoren\AutoAbstandsWarner\obj\Debug\AutoAbstandsWarner.csproj.CoreCompileInputs.cache
+C:\Users\arik.herbert\Documents\Berufsschule\BFK-S\LernSituationAutoSensoren\AutoAbstandsWarner\obj\Debug\AutoAbstandsWarner.exe
+C:\Users\arik.herbert\Documents\Berufsschule\BFK-S\LernSituationAutoSensoren\AutoAbstandsWarner\obj\Debug\AutoAbstandsWarner.pdb
